@@ -87,10 +87,3 @@ Nous pensons que ces améliorations permettront de rendre l’application plus p
 
 
 
-## 📦 Lien
-
-```bash
-git clone https://github.com/Pascaldo-LKS/jeu-des-fruits
-cd jeu-des-fruits
-flutter pub get
-flutter run
