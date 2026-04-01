@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 // Importation des écrans (screens)
 import 'screens/home_screen.dart';
 import 'screens/game_screen.dart';
+import 'screens/splash_screen.dart';
 import 'screens/settings_screen.dart';
 import 'screens/about_screen.dart';
 
@@ -34,7 +35,8 @@ class MyApp extends StatelessWidget {
       ),
 
       // Page affichée au démarrage
-      home: HomeScreen(),
+      //home: HomeScreen(),
+      home: SplashScreen(),
 
       // Gestion des routes (navigation entre les pages)
       routes: {

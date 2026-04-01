@@ -47,6 +47,7 @@ flutter:
   - assets/images/applecon.png
   - assets/images/orangecon.png
   - assets/images/ananacon.png
+  - assets/images/logo.png
   - assets/sounds/click.wav
   - assets/sounds/error.wav
   - assets/sounds/success.wav
