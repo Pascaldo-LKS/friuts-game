@@ -53,6 +53,10 @@ flutter:
   - assets/sounds/success.wav
   - assets/sounds/bg_music.wav
 
+ flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/icon.png"
   
 
   # To add assets to your application, add an assets section, like this:
